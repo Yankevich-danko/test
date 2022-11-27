@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\samurai jack\OneDrive\Рабочий стол\Blazor.Learner\Blazor.Learner\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\samurai jack\.nuget\packages\mudblazor\2.0.7\build\..\staticwebassets\" />
+</StaticWebAssets>
